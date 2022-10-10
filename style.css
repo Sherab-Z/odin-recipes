@@ -1,3 +1,15 @@
-* {
-  background-color: aquamarine;
+.hm-pg-body {
+  background-color: green;
+}
+
+.cz-pg-body {
+  background-color: blue;
+}
+
+.in-pg-body {
+  background-color: brown;
+}
+
+.it-pg-body {
+  background-color: yellow;
 }
