@@ -1,15 +1,36 @@
-.hm-pg-body {
-  background-color: green;
+/* Global styles, across all pages */
+
+body {
+  margin: 0;
+  top: 0;
 }
 
-.cz-pg-body {
-  background-color: blue;
+.page-div {
+  width: 80vw;
+  margin: auto;
 }
 
-.in-pg-body {
-  background-color: brown;
+.food-img {
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 50%;
+  height: auto;
 }
 
-.it-pg-body {
-  background-color: yellow;
+/* Page-specific styles */
+
+.home-page {
+  background-color: hsl(120, 47%, 68%);
+}
+
+.czech-body {
+  background-color: hsl(240, 100%, 88%);
+}
+
+.indian-body {
+  background-color: rgb(200, 146, 146);
+}
+
+.italian-body {
+  background-color: rgb(236, 236, 159);
 }
